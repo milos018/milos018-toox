@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/milos018/node-toox-framework.git"
+    "url": "git+https://github.com/milos018/toox.git"
   },
   "bugs": {
-    "url": "https://github.com/milos018/node-toox-framework/issues"
+    "url": "https://github.com/milos018/toox/issues"
   },
-  "homepage": "https://github.com/milos018/node-toox-framework#readme"
+  "homepage": "https://github.com/milos018/toox#readme"
 }
