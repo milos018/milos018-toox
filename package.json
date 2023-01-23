@@ -1,6 +1,6 @@
 {
   "name": "@milos018/toox",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Milos milos018@gmail.com",
   "license": "MIT",
   "description": "Node JS framework for building REST API",
