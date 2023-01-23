@@ -1,5 +1,5 @@
 {
-  "name": "toox",
+  "name": "@milos018/toox",
   "version": "0.0.1",
   "author": "Milos milos018@gmail.com",
   "license": "MIT",
@@ -20,5 +20,13 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "pino": "^8.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milos018/node-toox-framework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/milos018/node-toox-framework/issues"
+  },
+  "homepage": "https://github.com/milos018/node-toox-framework#readme"
 }
